@@ -1,0 +1,14 @@
+Purpose & Scope -
+      -> In this practise set of python i will try to build a program where the user can see the team details of the Intelegencia organisation.
+
+Goal -
+      -> User will give team name as input and all the details of that team will be shown as output
+      -> This program will helps to know about all the teams.
+
+Overview & Uses -
+      -> In this program when the user will enter the name of any  team as input than user can see all the details like manager name team leader and other team members.
+      -> It can be used by the members of the Intelegencia Organisation to know about their colleagues.
+
+Constraints - 
+      -> User can see only those data which will be stored in the JSON file
+      -> Users can only see information about different teams cannot see other details of organisation.
