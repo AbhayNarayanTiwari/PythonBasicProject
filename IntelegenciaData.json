@@ -1,0 +1,21 @@
+{
+    "teamDetails": [{
+            "teamName": "disney",
+            "Manager": "Tarun Upadhyay",
+            "TechnicalLead": "Rakesh Saini, Priyanka Goel",
+            "Engineer": "Abhay Narayan Tiwari, Abhishek Gupta, Ankit Kumar Gupta, Ankita Agarwal, Utsav Sharma"
+        },
+        {
+            "teamName": "marvel",
+            "manager": "Gagan",
+            "TechnicalLead": "Rakesh Saini, Priyanka Goel",
+            "Engineer": "Saimullah, Subham Dutt"
+        },
+        {
+            "teamName": "Avenger",
+            "Manager": "Ricky",
+            "TechnicalLead": "Rakesh Saini, Priyanka Goel",
+            "Engineer": "Subham Dutt"
+        }
+    ]
+}
